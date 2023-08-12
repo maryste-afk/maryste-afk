@@ -1,4 +1,4 @@
-# Olá, Eu sou Ester! 👋
+# Olá, Eu sou a Ester! 👋
 
 ### Sou Desenvolvedora, Apaixonada por Tecnologia e por Aprender!! 💖
 

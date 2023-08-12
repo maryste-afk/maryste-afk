@@ -2,12 +2,15 @@
 
 ### Sou Desenvolvedora, Estudante de Computação na UFPA, Apaixonada por Tecnologia e por Aprender!! 💖
 
+
 ### 🚀 Bem-vindo ao meu Repositório! 🌟 Obrigado por visitar meu Github!
+
 
 ## O que você vai encontrar aqui? 📂
 
-- 📚 **Códigos de Trabalhos**: Código dos meus trabalhos e projetos acadêmicos
-- ✔ **Projetos**: Projetos desenvolvidos pra fins de aprendizado e idéias em desenvolvimento
+- 📚 Código dos meus trabalhos e projetos acadêmicos
+- ✔  Projetos desenvolvidos pra fins de aprendizado e idéias em desenvolvimento
+- 📃 [Meu Portifólio](https://github.com/maryste-afk/portifolio)
 - ✨ Entre outros...
 
 <div style="display: inline_block"><br>

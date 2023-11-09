@@ -1,6 +1,5 @@
-# Olá, Eu sou a Ester! 👋
+# Olá, Eu sou a Ester! 
 
-### Sou Desenvolvedora, Estudante de Computação na UFPA, Apaixonada por Tecnologia e por Aprender!! 💖
+##Desenvolvedora, Estudante de Computação na UFPA
 
-
-### 🚀 Bem-vindo ao meu Repositório! 🌟 Obrigado por visitar meu Github!
+### Bem-vindo ao meu Repositório!  Obrigado por visitar meu Github!
